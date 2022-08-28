@@ -33,7 +33,7 @@ On the other hand, a user can simply register themselves in the system. Here, th
 
 #Development tools and Environment
 ---
-*Visual Studio 2022 (Community Edition)
+*Visual Studio 2022 (Community Edition)<br/>
 *C# <br/>
 *MySql
 ---
