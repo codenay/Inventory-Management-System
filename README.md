@@ -36,7 +36,7 @@ On the other hand, a user can simply register themselves in the system. Here, th
 *Visual Studio 2022 (Community Edition)
 *C#
 *MySql
-
+---
 ###link to project demo()
 
 
