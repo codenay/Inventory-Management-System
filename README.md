@@ -1,7 +1,7 @@
 #About Inventory Management System 
 ---
 This Inventory Management System project in C# and MySQL focuses mainly on keeping track of inventory activities. To be more precise, the system helps to keep track of inventories with respect to their sales. Also, the system displays all the paid, unpaid transactions of the items. In addition, the system allows managing system users and more. Evidently, this project contains an admin panel with a manager and customer panel. In an overview of this web application, an admin has full control over the system. He/she can manage employees, inventory items, and sales. Here, an admin can perform almost every work but still, the main role is to oversee the flow of the system.
-<br/>
+
 ###Manager Panel
 Moreover, a manager’s account has access to manage the whole inventory activities. Here, a manager can add, update, remove and list out a company’s inventories. In fact, the system allows managing sales records. In order to manage inventories, the system requires details of inventories such as the name of the model, parts, type, price. Also, each and every item holds a stock quantity which is also managed by the manager or administrator. Furthermore, the system automatically deducts the quantity of a product as soon as the product passes through the transaction procedure. Besides, the manager can generate various reports in PDF format. It includes the report on item lists, orders, and more.
 <br/>
