@@ -31,12 +31,12 @@ On the other hand, a user can simply register themselves in the system. Here, th
 * System User Management
 ---
 
-###Development tools and Environment
+#Development tools and Environment
 ---
 *Visual Studio 2022 (Community Edition)
-*C#
+*C# <br/>
 *MySql
 ---
-###link to project demo()
+#link to project demo()
 
 
